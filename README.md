@@ -1,16 +1,21 @@
-# flutter_application_1
+# 🌊 IoT Water Turbidity Monitoring — Mobile App (Flutter)
 
-A new Flutter project.
+A mobile application built using **Flutter** to monitor **water turbidity (kekeruhan air)** in real time.  
+This project integrates **IoT sensor data (NTU sensor)** via MQTT/HTTP API, enabling users to track water quality directly from their Android device.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📡 **Real-time turbidity monitoring (NTU)**
+- 📱 **Mobile UI built with Flutter**
+- 🔔 **Threshold-based alert (kekeruhan tinggi)**
+- 🌐 **Integrated with IoT hardware (ESP32 / NodeMCU)**
+- ☁️ **MQTT/REST API communication**
+- 📊 **Live data updates + history preview**
+- 🔧 **Easy to deploy & modify**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗️ System Architecture
+
